@@ -1,0 +1,7 @@
+"comment_id,post_id,user_id,content"
+"1,1,2,""Nice post!"""
+"2,1,3,""Hello, Alice!"""
+"3,2,1,""Have a great time!"""
+"4,3,4,""What book was it?"""
+"5,4,3,""Chicago is amazing!"""
+"6,5,2,""Wish I was there too!"""
